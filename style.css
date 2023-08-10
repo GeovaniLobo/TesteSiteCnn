@@ -879,6 +879,9 @@ footer input {
         margin-left: 5%;
 
     }
+    .feed .feed-left h3{
+        width: 80%;
+    }
 
     .feed .feed-principal {
         display: flex;
